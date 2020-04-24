@@ -1,0 +1,4 @@
+#Tue Apr 21 20:49:59 CDT 2020
+base.0=/Users/yuanziqi/AndroidStudioProjects/FinalParking/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
