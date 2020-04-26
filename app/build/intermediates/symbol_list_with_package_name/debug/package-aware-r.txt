@@ -1182,7 +1182,6 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id btn_holder
 id button
-id button2
 id buttonPanel
 id button_continue
 id button_create

@@ -1,0 +1,24 @@
+{
+  "parking": [
+    {
+      "name": "Parking Structure A-9",
+      "latitude": "40.111341",
+      "longitude": "-88.230214",
+    },
+    {
+      "name": "Parking Structure A-3",
+      "latitude": "40.112234",
+      "longitude": "-88.229973"
+    },
+    {
+      "name": "Parking Structure A-11",
+      "latitude": "40.111007",
+      "longitude": "-88.233260"
+    },
+    {
+      "name": "Parking Structure ",
+      "latitude": "40.113321",
+      "longitude": "-88.228291"
+    }
+  ]
+}

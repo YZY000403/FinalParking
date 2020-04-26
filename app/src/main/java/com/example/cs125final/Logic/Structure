@@ -1,0 +1,12 @@
+Parking Service
+
+    Function:
+        1. check all parking lots within the proximity_threshold
+        2. compare parking lots and select the closest one
+        3. be able to show the direct distance
+        4. check for the spaces avaliable
+
+
+    Plans
+        1. current location + location of parking lots
+        2. compare distance
