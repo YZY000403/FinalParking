@@ -1,6 +1,8 @@
 package com.example.cs125final;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,15 +13,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-       // Button search = findViewById(R.id.Result);
-       // search.setOnClickListener(unused
-                //-> nothing());
-       // startActivity(new Intent(this, ReplyActivity.class));
-        //finish();
-        TextView it = findViewById(R.id.textView);
-        it.setText();
-    }
-    public void nothing() {
-        int nothing1 = 1;
+        Button search = findViewById(R.id.searhHere);
+        search.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                TextView it = findViewById(R.id.textView);
+                it.setText("YOU");
+            }
+        });
     }
 }
