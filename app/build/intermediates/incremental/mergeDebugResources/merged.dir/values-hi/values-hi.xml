@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">आपके पास पहले से ही एक खाता है</string>
     <string name="fui_welcome_back_idp_prompt">आपने पहले ही %1$s का उपयोग कर लिया है. जारी रखने के लिए %2$s से प्रवेश करें.</string>
     <string name="fui_welcome_back_password_prompt_body">आपने पहले ही प्रवेश करने के लिए %1$s का उपयोग कर लिया है. उस खाते के लिए अपना पासवर्ड डालें.</string>
+    <string name="places_autocomplete_clear_button">खोज इनपुट मिटाएं</string>
+    <string name="places_autocomplete_label">कोई जगह चुनें</string>
+    <string name="places_autocomplete_no_results_for_query">%1$s के लिए कोई नतीजे नहीं मिले</string>
+    <string name="places_autocomplete_search_hint">खोजें</string>
+    <string name="places_cancel">रद्द करें</string>
+    <string name="places_powered_by_google">Google की ओर से दिखाई जाने वाली इमेज</string>
+    <string name="places_search_error">खोज नतीजे लोड नहीं किए जा सकते.</string>
+    <string name="places_try_again">फिर से कोशिश करें</string>
     <string msgid="146198913615257606" name="search_menu_title">"सर्च"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

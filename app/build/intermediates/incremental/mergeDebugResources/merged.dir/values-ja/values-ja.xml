@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">アカウントをすでにお持ちです</string>
     <string name="fui_welcome_back_idp_prompt">%1$s をすでに使用しています。%2$s でログインして続行してください。</string>
     <string name="fui_welcome_back_password_prompt_body">すでに %1$s を使用してログインしています。このアカウントのパスワードを入力してください。</string>
+    <string name="places_autocomplete_clear_button">検索をクリア</string>
+    <string name="places_autocomplete_label">場所を選択</string>
+    <string name="places_autocomplete_no_results_for_query">「%1$s」と一致する結果はありません</string>
+    <string name="places_autocomplete_search_hint">検索</string>
+    <string name="places_cancel">キャンセル</string>
+    <string name="places_powered_by_google">Powered by Google</string>
+    <string name="places_search_error">検索結果を読み込めません。</string>
+    <string name="places_try_again">再試行</string>
     <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

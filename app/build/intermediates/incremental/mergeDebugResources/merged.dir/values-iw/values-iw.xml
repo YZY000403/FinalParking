@@ -141,6 +141,14 @@
     <string name="fui_welcome_back_idp_header">כבר יש לך חשבון</string>
     <string name="fui_welcome_back_idp_prompt">כבר השתמשת בכתובת %1$s. כדי להמשיך, עליך להיכנס באמצעות %2$s.</string>
     <string name="fui_welcome_back_password_prompt_body">כבר השתמשת בכתובת %1$s. כדי להיכנס. עליך להזין את הסיסמה לחשבון המשויך אליה.</string>
+    <string name="places_autocomplete_clear_button">חיפוש חדש</string>
+    <string name="places_autocomplete_label">בחירת מקום</string>
+    <string name="places_autocomplete_no_results_for_query">לא נמצאו תוצאות עבור %1$s</string>
+    <string name="places_autocomplete_search_hint">חיפוש</string>
+    <string name="places_cancel">ביטול</string>
+    <string name="places_powered_by_google">‏מופעל על ידי Google</string>
+    <string name="places_search_error">לא הצלחנו לטעון את תוצאות החיפוש.</string>
+    <string name="places_try_again">ניסיון חוזר</string>
     <string msgid="146198913615257606" name="search_menu_title">"חיפוש"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

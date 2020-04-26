@@ -22,39 +22,43 @@ public class parkingLots {
         // Json parking;
 
         LatLng curLatLng = new LatLng(curLat, curLng);
-        double closerParking = 0.0;
 
-        for (JsonElement y : webRecord.get("parking").getAsJsonArray()) {
-            JsonObject parking = y.getAsJsonObject();
-
-            Target allParkingPoint = new Target(map,
-                    new LatLng(parking.get("latitude").getAsDouble(),
-                            parking.get("longitude").getAsDouble()));
-
-        }
+//
+//        for (JsonElement y : webRecord.get("parking").getAsJsonArray()) {
+//            JsonObject parking = y.getAsJsonObject();
+//
+//            Target allParkingPoint = new Target(map,
+//                    new LatLng(parking.get("latitude").getAsDouble(),
+//                            parking.get("longitude").getAsDouble()));
+//
+//        }
 
 
         /**
          * go through all parking space and compare the distance.
          * pick out the closest point and mark it on the map.
          */
-            for (JsonElement x : webRecord.get("parking").getAsJsonArray()) {
-            JsonObject parking = x.getAsJsonObject();
+        JsonArray forLoop = webRecord.get("parking").getAsJsonArray();
+        JsonObject gotoParking = forLoop.get(0).getAsJsonObject();
+        LatLng firstPoint = new LatLng(gotoParking.get("latitude").getAsDouble(),
+                gotoParking.get("longitude").getAsDouble());
+        double closerParking = distanceParking(curLatLng, firstPoint);
+        JsonObject process = gotoParking;
 
-            LatLng testCoord = new LatLng(parking.get("latitude").getAsDouble(),
-                    parking.get("longitude").getAsDouble());
-            if (closerParking != 0) {
-                if (distanceParking(curLatLng, testCoord) < closerParking) {
-                    closerParking = distanceParking(curLatLng, testCoord);
-                    Json
-                }
-            } else {
-                closerParking = distanceParking(curLatLng, testCoord);
+        for (int i = 0; i < forLoop.size(); i++) {
+            JsonObject testing = forLoop.get(i).getAsJsonObject();
+            LatLng testCoord = new LatLng(testing.get("latitude").getAsDouble(),
+                    testing.get("longitude").getAsDouble());
+            int spaceAvai = testing.get("maxParking").getAsInt() - testing.get("cars").getAsInt();
+            if (spaceAvai <= 0) {
+                continue;
+            }
+            if (distanceParking(curLatLng, testCoord) < closerParking) {
+                process = testing;
             }
         }
-
-
-
+        // reply
+        //process
 
     }
 

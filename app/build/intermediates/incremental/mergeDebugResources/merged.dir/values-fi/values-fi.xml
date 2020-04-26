@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">Sinulla on jo tili.</string>
     <string name="fui_welcome_back_idp_prompt">Olet jo käyttänyt osoitetta %1$s. Jatka kirjautumalla palvelun %2$s kautta.</string>
     <string name="fui_welcome_back_password_prompt_body">Olet jo käyttänyt osoitetta %1$s kirjautumiseen. Anna kyseisen tilin salasana.</string>
+    <string name="places_autocomplete_clear_button">Tyhjennä haku</string>
+    <string name="places_autocomplete_label">Valitse paikka</string>
+    <string name="places_autocomplete_no_results_for_query">Ei tuloksia haulle %1$s</string>
+    <string name="places_autocomplete_search_hint">Haku</string>
+    <string name="places_cancel">Peruuta</string>
+    <string name="places_powered_by_google">Palvelun tarjoaa Google</string>
+    <string name="places_search_error">Hakutuloksia ei voi ladata.</string>
+    <string name="places_try_again">Yritä uudelleen</string>
     <string msgid="146198913615257606" name="search_menu_title">"Haku"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

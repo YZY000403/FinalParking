@@ -140,6 +140,14 @@
     <string name="fui_welcome_back_idp_header">Već imate račun</string>
     <string name="fui_welcome_back_idp_prompt">Već ste upotrijebili e-adresu %1$s. Za nastavak se prijavite putem usluge %2$s.</string>
     <string name="fui_welcome_back_password_prompt_body">Za prijavu ste već upotrijebili e-adresu %1$s. Unesite zaporku za taj račun.</string>
+    <string name="places_autocomplete_clear_button">Isprazni pretraživanje</string>
+    <string name="places_autocomplete_label">Odabir mjesta</string>
+    <string name="places_autocomplete_no_results_for_query">Nema rezultata za upit: %1$s</string>
+    <string name="places_autocomplete_search_hint">Pretraživanje</string>
+    <string name="places_cancel">Odustani</string>
+    <string name="places_powered_by_google">Pokreće Google</string>
+    <string name="places_search_error">Rezultati pretraživanja ne mogu se učitati.</string>
+    <string name="places_try_again">Pokušaj ponovno</string>
     <string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

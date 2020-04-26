@@ -45,6 +45,14 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Телефонда ашу"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Кіру"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google арқылы кіру"</string>
+    <string name="places_autocomplete_clear_button">Іздеу жолын тазарту</string>
+    <string name="places_autocomplete_label">Орынды таңдау</string>
+    <string name="places_autocomplete_no_results_for_query">%1$s бойынша бірде-бір нәтиже жоқ</string>
+    <string name="places_autocomplete_search_hint">Іздеу</string>
+    <string name="places_cancel">Бас тарту</string>
+    <string name="places_powered_by_google">Google технологиясына негізделген</string>
+    <string name="places_search_error">Іздеу нәтижелері жүктелмеді.</string>
+    <string name="places_try_again">Қайталап көру</string>
     <string msgid="146198913615257606" name="search_menu_title">"Іздеу"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

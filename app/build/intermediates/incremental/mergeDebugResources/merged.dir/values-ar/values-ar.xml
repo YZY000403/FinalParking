@@ -143,6 +143,14 @@
     <string name="fui_welcome_back_idp_header">لديك حساب حاليًا</string>
     <string name="fui_welcome_back_idp_prompt">لقد سبق أن استخدمت %1$s. سجّل الدخول باستخدام %2$s للمتابعة.</string>
     <string name="fui_welcome_back_password_prompt_body">لقد سبق أن استخدمت %1$s لتسجيل الدخول. يُرجى إدخال كلمة المرور لهذا الحساب.</string>
+    <string name="places_autocomplete_clear_button">مسح البحث</string>
+    <string name="places_autocomplete_label">اختيار مكان</string>
+    <string name="places_autocomplete_no_results_for_query">لم يتم العثور على نتائج عن %1$s</string>
+    <string name="places_autocomplete_search_hint">بحث</string>
+    <string name="places_cancel">إلغاء</string>
+    <string name="places_powered_by_google">‏تدعمه Google</string>
+    <string name="places_search_error">يتعذر تحميل نتائج البحث.</string>
+    <string name="places_try_again">إعادة المحاولة</string>
     <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

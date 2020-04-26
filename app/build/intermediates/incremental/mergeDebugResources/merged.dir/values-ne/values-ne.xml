@@ -45,6 +45,14 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"फोनमा खोल्नुहोस्"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"साइन इन गर्नुहोस्"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google मार्फत साइन‍ इन गर्नुहोस्"</string>
+    <string name="places_autocomplete_clear_button">खोज खाली गर्नुहोस्</string>
+    <string name="places_autocomplete_label">कुनै ठाँउ छान्नुहोस्</string>
+    <string name="places_autocomplete_no_results_for_query">%1$s को कुनै पनि परिणाम छैन</string>
+    <string name="places_autocomplete_search_hint">खोज</string>
+    <string name="places_cancel">रद्द गर्नुहोस्‌</string>
+    <string name="places_powered_by_google">Google द्वारा सञ्चालित</string>
+    <string name="places_search_error">खोज परिणाम लोड गर्न सकिएन।</string>
+    <string name="places_try_again">फेरि प्रयास गर्नु…</string>
     <string msgid="146198913615257606" name="search_menu_title">"खोज्नुहोस्"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"९९९+"</string>
 </resources>

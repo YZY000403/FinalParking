@@ -140,6 +140,14 @@
     <string name="fui_welcome_back_idp_header">Jums jau ir konts</string>
     <string name="fui_welcome_back_idp_prompt">Esat jau izmantojis e-pasta adresi %1$s. Pierakstieties pakalpojumā %2$s, lai turpinātu.</string>
     <string name="fui_welcome_back_password_prompt_body">Esat jau izmantojis e-pasta adresi %1$s, lai pierakstītos. Ievadiet šī konta paroli.</string>
+    <string name="places_autocomplete_clear_button">Notīrīt meklēšanas vaicājumu</string>
+    <string name="places_autocomplete_label">Vietas izvēle</string>
+    <string name="places_autocomplete_no_results_for_query">Nav rezultātu vaicājumam “%1$s”</string>
+    <string name="places_autocomplete_search_hint">Meklēt</string>
+    <string name="places_cancel">Atcelt</string>
+    <string name="places_powered_by_google">Darbību nodrošina Google</string>
+    <string name="places_search_error">Nevar ielādēt meklēšanas rezultātus.</string>
+    <string name="places_try_again">Mēģināt vēlreiz</string>
     <string msgid="146198913615257606" name="search_menu_title">"Meklēt"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

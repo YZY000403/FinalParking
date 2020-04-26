@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">ನೀವು ಈಗಾಗಲೇ ಖಾತೆಯನ್ನು ಹೊಂದಿರುವಿರಿ</string>
     <string name="fui_welcome_back_idp_prompt">ನೀವು ಈಗಾಗಲೇ %1$s ಅನ್ನು ಬಳಸುತ್ತಿರುವಿರಿ. ಮುಂದುವರಿಸಲು %2$s ಜೊತೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.</string>
     <string name="fui_welcome_back_password_prompt_body">ನೀವು ಈಗಾಗಲೇ ಸೈನ್ ಇನ್ ಮಾಡಲು %1$sನ್ನು ಬಳಸಿದ್ದೀರಿ. ಆ ಖಾತೆಗೆ ಸೈನ್ ಇನ್ ಆಗಲು ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನಮೂದಿಸಿ.</string>
+    <string name="places_autocomplete_clear_button">ಹುಡುಕಾಟ ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="places_autocomplete_label">ಸ್ಥಳವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="places_autocomplete_no_results_for_query">%1$s ಸಂಬಂಧಿಸಿದ ಯಾವುದೇ ಫಲಿತಾಂಶಗಳಿಲ್ಲ</string>
+    <string name="places_autocomplete_search_hint">ಹುಡುಕಿ</string>
+    <string name="places_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="places_powered_by_google">Google ನಿಂದ ಸಂಚಾಲಿತವಾಗಿದೆ</string>
+    <string name="places_search_error">ಹುಡುಕಾಟ ಫಲಿತಾಂಶಗಳನ್ನು ಲೋಡ್‍ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="places_try_again">ಪುನಃ ಪ್ರಯತ್ನಿಸಿ</string>
     <string msgid="146198913615257606" name="search_menu_title">"ಹುಡುಕಿ"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

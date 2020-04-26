@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">Du har allerede en konto</string>
     <string name="fui_welcome_back_idp_prompt">Du har allerede brugt %1$s. Log ind med %2$s for at fortsætte.</string>
     <string name="fui_welcome_back_password_prompt_body">Du har allerede brugt %1$s til at logge ind. Angiv din adgangskode for den pågældende konto.</string>
+    <string name="places_autocomplete_clear_button">Ryd søgning</string>
+    <string name="places_autocomplete_label">Vælg et sted</string>
+    <string name="places_autocomplete_no_results_for_query">Ingen resultater for %1$s</string>
+    <string name="places_autocomplete_search_hint">Søg</string>
+    <string name="places_cancel">Annuller</string>
+    <string name="places_powered_by_google">Leveret af Google</string>
+    <string name="places_search_error">Søgeresultaterne kunne ikke indlæses.</string>
+    <string name="places_try_again">Prøv igen</string>
     <string msgid="146198913615257606" name="search_menu_title">"Søg"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

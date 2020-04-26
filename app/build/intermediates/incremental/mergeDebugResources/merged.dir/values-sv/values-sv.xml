@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">Du har redan ett konto</string>
     <string name="fui_welcome_back_idp_prompt">Du har redan använt %1$s. Logga in med %2$s om du vill fortsätta.</string>
     <string name="fui_welcome_back_password_prompt_body">Du har redan loggat in med %1$s. Ange lösenordet för det kontot.</string>
+    <string name="places_autocomplete_clear_button">Rensa sökning</string>
+    <string name="places_autocomplete_label">Välj en plats</string>
+    <string name="places_autocomplete_no_results_for_query">Inga resultat för %1$s</string>
+    <string name="places_autocomplete_search_hint">Sök</string>
+    <string name="places_cancel">Avbryt</string>
+    <string name="places_powered_by_google">Tillhandahålls av Google</string>
+    <string name="places_search_error">Det går inte att läsa in sökresultat.</string>
+    <string name="places_try_again">Försök igen</string>
     <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

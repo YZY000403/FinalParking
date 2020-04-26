@@ -141,6 +141,14 @@
     <string name="fui_welcome_back_idp_header">Již máte účet</string>
     <string name="fui_welcome_back_idp_prompt">Již jste použili adresu %1$s. Chcete-li pokračovat, přihlaste se prostřednictvím služby %2$s.</string>
     <string name="fui_welcome_back_password_prompt_body">K přihlášení jste již použili adresu %1$s. Zadejte příslušné heslo k účtu.</string>
+    <string name="places_autocomplete_clear_button">Vymazat vyhledávání</string>
+    <string name="places_autocomplete_label">Vybrat místo</string>
+    <string name="places_autocomplete_no_results_for_query">Žádné výsledky pro dotaz %1$s</string>
+    <string name="places_autocomplete_search_hint">Hledat</string>
+    <string name="places_cancel">Zrušit</string>
+    <string name="places_powered_by_google">Používá technologii Google</string>
+    <string name="places_search_error">Výsledky vyhledávání se nepodařilo načíst.</string>
+    <string name="places_try_again">Opakovat</string>
     <string msgid="146198913615257606" name="search_menu_title">"Hledat"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

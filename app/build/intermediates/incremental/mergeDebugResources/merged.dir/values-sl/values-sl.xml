@@ -141,6 +141,14 @@
     <string name="fui_welcome_back_idp_header">Račun že imate</string>
     <string name="fui_welcome_back_idp_prompt">E-poštni naslov %1$s ste že uporabili. Če želite nadaljevati, se prijavite z računom za %2$s.</string>
     <string name="fui_welcome_back_password_prompt_body">E-poštni naslov %1$s ste že uporabili za prijavo. Vnesite geslo za ta račun.</string>
+    <string name="places_autocomplete_clear_button">Počisti iskanje</string>
+    <string name="places_autocomplete_label">Izbira mesta</string>
+    <string name="places_autocomplete_no_results_for_query">Za %1$s ni rezultatov</string>
+    <string name="places_autocomplete_search_hint">Išči</string>
+    <string name="places_cancel">Prekliči</string>
+    <string name="places_powered_by_google">Uporablja tehnologijo Google</string>
+    <string name="places_search_error">Rezultatov iskanja ni mogoče naložiti.</string>
+    <string name="places_try_again">Poskusi znova</string>
     <string msgid="146198913615257606" name="search_menu_title">"Iskanje"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

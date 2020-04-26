@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">Zaten bir hesabınız var</string>
     <string name="fui_welcome_back_idp_prompt">%1$s adresini zaten kullandınız. Devam etmek için %2$s ile oturum açın.</string>
     <string name="fui_welcome_back_password_prompt_body">%1$s adresini oturum açmak için zaten kullandınız. Bu hesap için şifrenizi girin.</string>
+    <string name="places_autocomplete_clear_button">Aramayı temizle</string>
+    <string name="places_autocomplete_label">Yer seçin</string>
+    <string name="places_autocomplete_no_results_for_query">%1$s için sonuç bulunamadı</string>
+    <string name="places_autocomplete_search_hint">Ara</string>
+    <string name="places_cancel">İptal</string>
+    <string name="places_powered_by_google">Google tarafından desteklenmektedir</string>
+    <string name="places_search_error">Arama sonuçları yüklenemiyor.</string>
+    <string name="places_try_again">Tekrar dene</string>
     <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

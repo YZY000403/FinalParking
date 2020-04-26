@@ -45,6 +45,14 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Hape në telefon"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Identifikohu"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Identifikohu me Google"</string>
+    <string name="places_autocomplete_clear_button">Pastro kërkimin</string>
+    <string name="places_autocomplete_label">Zgjidh një vend</string>
+    <string name="places_autocomplete_no_results_for_query">Asnjë rezultat për %1$s</string>
+    <string name="places_autocomplete_search_hint">Kërko</string>
+    <string name="places_cancel">Anulo</string>
+    <string name="places_powered_by_google">Mundësuar nga Google</string>
+    <string name="places_search_error">Rezultatet e kërkimit nuk mund të ngarkohen.</string>
+    <string name="places_try_again">Provo sërish</string>
     <string msgid="146198913615257606" name="search_menu_title">"Kërko"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

@@ -45,6 +45,14 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"දුරකථනය තුළ විවෘත කරන්න"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"පුරන්න"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google සමගින් පුරන්න"</string>
+    <string name="places_autocomplete_clear_button">සෙවීම හිස් කරන්න</string>
+    <string name="places_autocomplete_label">තැනක් තෝරා ගන්න</string>
+    <string name="places_autocomplete_no_results_for_query">%1$s සඳහා ප්‍රතිඵල නැත</string>
+    <string name="places_autocomplete_search_hint">සෙවීම</string>
+    <string name="places_cancel">අවලංගු කරන්න</string>
+    <string name="places_powered_by_google">Google වෙතින් බල ගැන්වූ</string>
+    <string name="places_search_error">සෙවීම් ප්‍රතිඵල පූරණ කළ නොහැක.</string>
+    <string name="places_try_again">නැවත උත්සාහ කරන්න</string>
     <string msgid="146198913615257606" name="search_menu_title">"සොයන්න"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

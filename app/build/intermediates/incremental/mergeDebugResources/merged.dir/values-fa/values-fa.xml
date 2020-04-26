@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">از قبل حسابی دارید</string>
     <string name="fui_welcome_back_idp_prompt">قبلاً از %1$s استفاده کرده‌اید. برای ادامه، با %2$s وارد سیستم شوید.</string>
     <string name="fui_welcome_back_password_prompt_body">قبلاً از %1$s برای ورود به سیستم استفاده کرده‌اید. گذرواژه این حساب را وارد کنید.</string>
+    <string name="places_autocomplete_clear_button">پاک کردن جستجو</string>
+    <string name="places_autocomplete_label">انتخاب مکان</string>
+    <string name="places_autocomplete_no_results_for_query">نتیجه‌ای برای %1$s پیدا نشد</string>
+    <string name="places_autocomplete_search_hint">جستجو</string>
+    <string name="places_cancel">لغو</string>
+    <string name="places_powered_by_google">‏با پشتیبانی Google</string>
+    <string name="places_search_error">نتایج جستجو بارگیری نمی‌شود.</string>
+    <string name="places_try_again">امتحان دوباره</string>
     <string msgid="146198913615257606" name="search_menu_title">"جستجو"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

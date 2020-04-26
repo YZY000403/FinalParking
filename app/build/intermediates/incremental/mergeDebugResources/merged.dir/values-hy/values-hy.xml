@@ -45,6 +45,14 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Բացել հեռախոսով"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Մուտք գործել"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Մուտք գործել Google-ով"</string>
+    <string name="places_autocomplete_clear_button">Ջնջել հարցումը</string>
+    <string name="places_autocomplete_label">Ընտրեք վայր</string>
+    <string name="places_autocomplete_no_results_for_query">«%1$s»՝ արդյունք չի գտնվել</string>
+    <string name="places_autocomplete_search_hint">Որոնում</string>
+    <string name="places_cancel">Չեղարկել</string>
+    <string name="places_powered_by_google">Google-ի կողմից</string>
+    <string name="places_search_error">Չհաջողվեց բեռնել:</string>
+    <string name="places_try_again">Կրկնել</string>
     <string msgid="146198913615257606" name="search_menu_title">"Որոնել"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

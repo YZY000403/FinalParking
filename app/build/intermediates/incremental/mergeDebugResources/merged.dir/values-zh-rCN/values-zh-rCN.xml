@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">您已经有帐号了</string>
     <string name="fui_welcome_back_idp_prompt">您已经使用了 %1$s。请使用 %2$s 帐号登录以继续操作。</string>
     <string name="fui_welcome_back_password_prompt_body">您已经使用 %1$s 登录了，请输入该帐号的密码。</string>
+    <string name="places_autocomplete_clear_button">清除搜索</string>
+    <string name="places_autocomplete_label">选择地点</string>
+    <string name="places_autocomplete_no_results_for_query">找不到与“%1$s”匹配的结果</string>
+    <string name="places_autocomplete_search_hint">搜索</string>
+    <string name="places_cancel">取消</string>
+    <string name="places_powered_by_google">由 Google 提供支持</string>
+    <string name="places_search_error">无法加载搜索结果。</string>
+    <string name="places_try_again">重试</string>
     <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

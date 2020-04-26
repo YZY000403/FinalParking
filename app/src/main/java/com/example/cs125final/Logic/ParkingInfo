@@ -4,21 +4,29 @@
       "name": "Parking Structure A-9",
       "latitude": "40.111341",
       "longitude": "-88.230214",
+      "maxParking": "120",
+      "cars": "75"
     },
     {
       "name": "Parking Structure A-3",
       "latitude": "40.112234",
-      "longitude": "-88.229973"
+      "longitude": "-88.229973",
+      "maxParking": "85",
+      "cars": "85"
     },
     {
       "name": "Parking Structure A-11",
       "latitude": "40.111007",
-      "longitude": "-88.233260"
+      "longitude": "-88.233260",
+      "maxParking": "15",
+      "cars": "12"
     },
     {
       "name": "Parking Structure ",
       "latitude": "40.113321",
-      "longitude": "-88.228291"
+      "longitude": "-88.228291",
+      "maxParking": "200",
+      "cars": "5"
     }
   ]
 }

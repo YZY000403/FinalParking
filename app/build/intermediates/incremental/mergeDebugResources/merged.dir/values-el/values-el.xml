@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">Έχετε ήδη λογαριασμό</string>
     <string name="fui_welcome_back_idp_prompt">Έχετε ήδη χρησιμοποιήσει τη διεύθυνση %1$s. Συνδεθείτε μέσω %2$s για να συνεχίσετε.</string>
     <string name="fui_welcome_back_password_prompt_body">Έχετε ήδη χρησιμοποιήσει τη διεύθυνση %1$s για να συνδεθείτε. Εισαγάγετε τον κωδικό πρόσβασής σας για αυτόν τον λογαριασμό.</string>
+    <string name="places_autocomplete_clear_button">Διαγραφή αναζήτησης</string>
+    <string name="places_autocomplete_label">Επιλογή μέρους</string>
+    <string name="places_autocomplete_no_results_for_query">Δεν υπάρχουν αποτελέσματα για %1$s</string>
+    <string name="places_autocomplete_search_hint">Αναζήτηση</string>
+    <string name="places_cancel">Ακύρωση</string>
+    <string name="places_powered_by_google">Με την υποστήριξη της Google</string>
+    <string name="places_search_error">Δεν είναι δυνατή η φόρτωση των αποτελεσμάτων αναζήτησης.</string>
+    <string name="places_try_again">Επανάληψη</string>
     <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

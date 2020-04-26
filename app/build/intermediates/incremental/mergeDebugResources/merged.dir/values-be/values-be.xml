@@ -45,6 +45,14 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Адкрыць на тэлефоне"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Увайсцi"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Увайсці праз Google"</string>
+    <string name="places_autocomplete_clear_button">Ачысціць поле пошуку</string>
+    <string name="places_autocomplete_label">Выберыце месца</string>
+    <string name="places_autocomplete_no_results_for_query">Няма вынікаў па запыце \"%1$s\"</string>
+    <string name="places_autocomplete_search_hint">Пошук</string>
+    <string name="places_cancel">Скасаваць</string>
+    <string name="places_powered_by_google">На платформе Google</string>
+    <string name="places_search_error">Не ўдалося загрузіць вынікі пошуку.</string>
+    <string name="places_try_again">Паўтарыць спробу</string>
     <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

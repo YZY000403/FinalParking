@@ -45,6 +45,14 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Maak oop op foon"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Meld aan"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Meld aan met Google"</string>
+    <string name="places_autocomplete_clear_button">Vee soektog uit</string>
+    <string name="places_autocomplete_label">Kies \'n plek</string>
+    <string name="places_autocomplete_no_results_for_query">Geen resultate vir %1$s nie</string>
+    <string name="places_autocomplete_search_hint">Soek</string>
+    <string name="places_cancel">Kanselleer</string>
+    <string name="places_powered_by_google">Aangedryf deur Google</string>
+    <string name="places_search_error">Kan nie soekresultate laai nie.</string>
+    <string name="places_try_again">Probeer weer</string>
     <string msgid="146198913615257606" name="search_menu_title">"Soek"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

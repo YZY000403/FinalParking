@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">Anda sudah mempunyai akaun</string>
     <string name="fui_welcome_back_idp_prompt">Anda sudah menggunakan %1$s. Log masuk dengan %2$s untuk teruskan.</string>
     <string name="fui_welcome_back_password_prompt_body">Anda sudah menggunakan %1$s untuk log masuk. Masukkan kata laluan anda untuk akaun tersebut.</string>
+    <string name="places_autocomplete_clear_button">Kosongkan carian</string>
+    <string name="places_autocomplete_label">Pilih tempat</string>
+    <string name="places_autocomplete_no_results_for_query">Tiada hasil carian untuk %1$s</string>
+    <string name="places_autocomplete_search_hint">Cari</string>
+    <string name="places_cancel">Batal</string>
+    <string name="places_powered_by_google">Dikuasakan oleh Google</string>
+    <string name="places_search_error">Tidak dapat memuatkan hasil carian.</string>
+    <string name="places_try_again">Cuba lagi</string>
     <string msgid="146198913615257606" name="search_menu_title">"Cari"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

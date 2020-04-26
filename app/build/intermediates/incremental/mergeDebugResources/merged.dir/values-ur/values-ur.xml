@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">آپ کے پاس پہلے سے ہی ایک اکاؤنٹ موجود ہے</string>
     <string name="fui_welcome_back_idp_prompt">آپ نے پہلے ہی %1$s استعمال کر لیا ہے۔ جاری رکھنے کے لیے %2$s کے ساتھ سائن ان کریں۔</string>
     <string name="fui_welcome_back_password_prompt_body">آپ نے پہلے ہی %1$s استعمال کر لیا ہے سائن کرنے کے لیے۔ اس کاؤنٹ کے لیے اپنا پاس ورڈ درج کریں۔</string>
+    <string name="places_autocomplete_clear_button">تلاش صاف کریں</string>
+    <string name="places_autocomplete_label">جگہ منتخب کریں</string>
+    <string name="places_autocomplete_no_results_for_query">%1$s کیلئے کوئی نتیجہ نہیں ہے</string>
+    <string name="places_autocomplete_search_hint">تلاش</string>
+    <string name="places_cancel">منسوخ کریں</string>
+    <string name="places_powered_by_google">‏Google کے ذریعے تقویت یافتہ</string>
+    <string name="places_search_error">تلاش کے نتائج لوڈ نہیں کر سکتے۔</string>
+    <string name="places_try_again">دوبارہ کوشش کریں</string>
     <string msgid="146198913615257606" name="search_menu_title">"تلاش"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"+999"</string>
 </resources>

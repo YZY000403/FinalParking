@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">U heeft al een account</string>
     <string name="fui_welcome_back_idp_prompt">U heeft %1$s al gebruikt. Log in met %2$s om verder te gaan.</string>
     <string name="fui_welcome_back_password_prompt_body">U heeft al ingelogd met %1$s. Voer uw wachtwoord in voor dit account.</string>
+    <string name="places_autocomplete_clear_button">Zoekopdracht wissen</string>
+    <string name="places_autocomplete_label">Een plaats kiezen</string>
+    <string name="places_autocomplete_no_results_for_query">Geen resultaten voor %1$s</string>
+    <string name="places_autocomplete_search_hint">Zoeken</string>
+    <string name="places_cancel">Annuleren</string>
+    <string name="places_powered_by_google">Mogelijk gemaakt door Google</string>
+    <string name="places_search_error">Kan zoekresultaten niet laden.</string>
+    <string name="places_try_again">Opnieuw</string>
     <string msgid="146198913615257606" name="search_menu_title">"Zoeken"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">계정이 이미 있음</string>
     <string name="fui_welcome_back_idp_prompt">%1$s을(를) 이미 사용하고 있습니다. 계속하려면 %2$s(으)로 로그인하세요.</string>
     <string name="fui_welcome_back_password_prompt_body">이미 %1$s을(를) 사용하여 로그인했습니다. 해당 계정의 비밀번호를 입력하세요.</string>
+    <string name="places_autocomplete_clear_button">검색어 지우기</string>
+    <string name="places_autocomplete_label">장소 선택</string>
+    <string name="places_autocomplete_no_results_for_query">%1$s 검색결과 없음</string>
+    <string name="places_autocomplete_search_hint">검색</string>
+    <string name="places_cancel">취소</string>
+    <string name="places_powered_by_google">Google 제공</string>
+    <string name="places_search_error">검색결과를 로드할 수 없습니다.</string>
+    <string name="places_try_again">다시 시도</string>
     <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

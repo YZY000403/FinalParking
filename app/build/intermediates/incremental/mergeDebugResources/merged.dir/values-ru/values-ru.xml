@@ -141,6 +141,14 @@
     <string name="fui_welcome_back_idp_header">У вас уже есть аккаунт</string>
     <string name="fui_welcome_back_idp_prompt">Вы уже использовали адрес %1$s. Войдите через аккаунт %2$s.</string>
     <string name="fui_welcome_back_password_prompt_body">Вы уже использовали адрес %1$s. Введите пароль для этого аккаунта.</string>
+    <string name="places_autocomplete_clear_button">Очистить окно поиска</string>
+    <string name="places_autocomplete_label">Выбор места</string>
+    <string name="places_autocomplete_no_results_for_query">По запросу \"%1$s\" ничего не найдено.</string>
+    <string name="places_autocomplete_search_hint">Поиск</string>
+    <string name="places_cancel">Отмена</string>
+    <string name="places_powered_by_google">Технологии Google</string>
+    <string name="places_search_error">Не удалось загрузить результаты поиска.</string>
+    <string name="places_try_again">Повторить</string>
     <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">">999"</string>
 </resources>

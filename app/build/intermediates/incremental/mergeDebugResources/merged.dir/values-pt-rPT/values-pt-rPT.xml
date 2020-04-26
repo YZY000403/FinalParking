@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">Já tem uma conta</string>
     <string name="fui_welcome_back_idp_prompt">Já utilizou %1$s. Inicie sessão com %2$s para continuar.</string>
     <string name="fui_welcome_back_password_prompt_body">Já utilizou %1$s para iniciar sessão. Introduza a palavra-passe da conta em questão.</string>
+    <string name="places_autocomplete_clear_button">Limpar pesquisa</string>
+    <string name="places_autocomplete_label">Escolher um local</string>
+    <string name="places_autocomplete_no_results_for_query">Não foram encontrados resultados para %1$s.</string>
+    <string name="places_autocomplete_search_hint">Pesquisar</string>
+    <string name="places_cancel">Cancelar</string>
+    <string name="places_powered_by_google">Com tecnologia Google</string>
+    <string name="places_search_error">Não é possível carregar os resultados da pesquisa.</string>
+    <string name="places_try_again">Repetir</string>
     <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

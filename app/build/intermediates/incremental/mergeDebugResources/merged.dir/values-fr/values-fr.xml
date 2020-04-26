@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">Vous avez déjà un compte</string>
     <string name="fui_welcome_back_idp_prompt">Vous avez déjà utilisé l\'adresse e-mail %1$s. Connectez-vous avec %2$s pour continuer.</string>
     <string name="fui_welcome_back_password_prompt_body">Vous avez déjà utilisé l\'adresse e-mail %1$s pour vous connecter. Saisissez le mot de passe du compte.</string>
+    <string name="places_autocomplete_clear_button">Effacer la recherche</string>
+    <string name="places_autocomplete_label">Choisir un lieu</string>
+    <string name="places_autocomplete_no_results_for_query">Aucun résultat pour \"%1$s\"</string>
+    <string name="places_autocomplete_search_hint">Rechercher</string>
+    <string name="places_cancel">Annuler</string>
+    <string name="places_powered_by_google">Fourni par Google</string>
+    <string name="places_search_error">Impossible de charger les résultats de recherche.</string>
+    <string name="places_try_again">Réessayer</string>
     <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

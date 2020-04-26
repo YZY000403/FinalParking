@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">您已經有帳戶</string>
     <string name="fui_welcome_back_idp_prompt">目前您用於登入的帳戶是 %1$s。 如要繼續，請使用 %2$s 帳戶登入。</string>
     <string name="fui_welcome_back_password_prompt_body">您已使用 %1$s 登入。請輸入這個帳戶的密碼。</string>
+    <string name="places_autocomplete_clear_button">清除搜尋</string>
+    <string name="places_autocomplete_label">選擇地點</string>
+    <string name="places_autocomplete_no_results_for_query">找不到與「%1$s」相符的搜尋結果</string>
+    <string name="places_autocomplete_search_hint">搜尋</string>
+    <string name="places_cancel">取消</string>
+    <string name="places_powered_by_google">由 Google 提供技術</string>
+    <string name="places_search_error">無法載入搜尋結果。</string>
+    <string name="places_try_again">再試一次</string>
     <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

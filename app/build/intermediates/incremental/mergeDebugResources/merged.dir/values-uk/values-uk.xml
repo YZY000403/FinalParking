@@ -141,6 +141,14 @@
     <string name="fui_welcome_back_idp_header">У вас уже є обліковий запис</string>
     <string name="fui_welcome_back_idp_prompt">Ви вже використовували електронну адресу %1$s. Щоб продовжити, увійдіть в обліковий запис %2$s.</string>
     <string name="fui_welcome_back_password_prompt_body">Ви вже використовували електронну адресу %1$s для входу. Введіть пароль для цього облікового запису.</string>
+    <string name="places_autocomplete_clear_button">Очистити пошук</string>
+    <string name="places_autocomplete_label">Вибрати місце</string>
+    <string name="places_autocomplete_no_results_for_query">Немає результатів за запитом \"%1$s\"</string>
+    <string name="places_autocomplete_search_hint">Пошук</string>
+    <string name="places_cancel">Скасувати</string>
+    <string name="places_powered_by_google">Технологія Google</string>
+    <string name="places_search_error">Результати недоступні.</string>
+    <string name="places_try_again">Повторити</string>
     <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

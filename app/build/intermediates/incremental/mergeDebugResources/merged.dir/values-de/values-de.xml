@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">Sie haben bereits ein Konto</string>
     <string name="fui_welcome_back_idp_prompt">Sie haben %1$s bereits verwendet. Melden Sie sich mit %2$s an, um fortzufahren.</string>
     <string name="fui_welcome_back_password_prompt_body">Sie haben %1$s bereits zur Anmeldung verwendet. Gib das Passwort für dieses Konto ein.</string>
+    <string name="places_autocomplete_clear_button">Suche löschen</string>
+    <string name="places_autocomplete_label">Ort auswählen</string>
+    <string name="places_autocomplete_no_results_for_query">Keine Ergebnisse für \"%1$s\"</string>
+    <string name="places_autocomplete_search_hint">Suchen</string>
+    <string name="places_cancel">Abbrechen</string>
+    <string name="places_powered_by_google">Powered by Google</string>
+    <string name="places_search_error">Suchergebnisse können nicht geladen werden.</string>
+    <string name="places_try_again">Noch einmal</string>
     <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

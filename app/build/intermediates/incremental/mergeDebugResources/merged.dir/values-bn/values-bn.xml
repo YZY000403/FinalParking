@@ -139,6 +139,14 @@
     <string name="fui_welcome_back_idp_header">আপনার আগে থেকেই একটি অ্যাকাউন্ট আছে</string>
     <string name="fui_welcome_back_idp_prompt">আপনি %1$s আগেই ব্যবহার করেছেন। চালিয়ে যেতে %2$s দিয়ে সাইন-ইন করুন।</string>
     <string name="fui_welcome_back_password_prompt_body">আপনি আগেই %1$s দিয়ে সাইন-ইন করেছেন। সেই অ্যাকাউন্টের জন্য পাসওয়ার্ডটি লিখুন।</string>
+    <string name="places_autocomplete_clear_button">সার্চ মুছুন</string>
+    <string name="places_autocomplete_label">একটি জায়গা বাছুন</string>
+    <string name="places_autocomplete_no_results_for_query">%1$s-এর জন্য কোনও ফলাফল নেই</string>
+    <string name="places_autocomplete_search_hint">খুঁজুন</string>
+    <string name="places_cancel">বাতিল করুন</string>
+    <string name="places_powered_by_google">Google দ্বারা পরিচালিত</string>
+    <string name="places_search_error">সার্চের ফলাফল লোড করা যাচ্ছে না।</string>
+    <string name="places_try_again">আবার করুন</string>
     <string msgid="146198913615257606" name="search_menu_title">"খুঁজুন"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
 </resources>

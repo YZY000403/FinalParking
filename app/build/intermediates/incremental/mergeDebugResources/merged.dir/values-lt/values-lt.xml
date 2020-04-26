@@ -141,6 +141,14 @@
     <string name="fui_welcome_back_idp_header">Jūs jau turite paskyrą</string>
     <string name="fui_welcome_back_idp_prompt">Jau panaudojote %1$s.Jei norite tęsti, prisijunkite per „%2$s“.</string>
     <string name="fui_welcome_back_password_prompt_body">Jūs jau prisijungėte naudodami %1$s. Įveskite tos paskyros slaptažodį.</string>
+    <string name="places_autocomplete_clear_button">Išvalyti paiešką</string>
+    <string name="places_autocomplete_label">Vietos pasirinkimas</string>
+    <string name="places_autocomplete_no_results_for_query">Nėra rezultatų, susijusių su: %1$s</string>
+    <string name="places_autocomplete_search_hint">Ieškoti</string>
+    <string name="places_cancel">Atšaukti</string>
+    <string name="places_powered_by_google">Teikia „Google“</string>
+    <string name="places_search_error">Nepavyko įkelti paieškos rezultatų.</string>
+    <string name="places_try_again">Bandyti vėl</string>
     <string msgid="146198913615257606" name="search_menu_title">"Paieška"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>
