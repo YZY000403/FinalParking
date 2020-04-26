@@ -7,7 +7,6 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.firebase.ui.auth.AuthUI;
-import com.google.firebase.auth.FirebaseAuth;
 
 import java.util.Arrays;
 import java.util.List;
@@ -19,13 +18,8 @@ public class LaunchActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_launch);
         Button login = findViewById(R.id.Login);
-        if (FirebaseAuth.getInstance().getCurrentUser() != null) {
-            startActivity(new Intent(this, MainActivity.class));
-            finish();
-        } else {
-            createSignInIntent();
-            login.setOnClickListener(v -> createSignInIntent());
-        }
+        createSignInIntent();
+        login.setOnClickListener(v -> createSignInIntent());
     }
 
     /**
