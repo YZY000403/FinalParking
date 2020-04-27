@@ -2,18 +2,13 @@ package com.example.cs125final.Logic;
 
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.location.LocationResult;
 import com.google.gson.JsonArray;
-import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-
 
 
 
 // calculate the distance between user's location and the parking's location
 public class parkingLots {
-
-
     public parkingLots(JsonObject webRecord, GoogleMap map) {
 
         double curLat = 40.112181;
