@@ -41,9 +41,18 @@ public class MainActivity extends AppCompatActivity {
         search.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                TextView it = findViewById(R.id.textView);
                 JSONObject cloest = cloest();
+                TextView it = findViewById(R.id.name);
                 it.setText(cloest.getString("name"));
+                TextView second = findViewById(R.id.AvailableSpace);
+                String putOne = String.valueOf(cloest.getDouble("maxParking") - cloest.getDouble("cars"));
+                second.setText(putOne);
+                TextView third = findViewById(R.id.Latitude);
+                String putTwo = String.valueOf(cloest.getDouble("latitude"));
+                third.setText(putTwo);
+                TextView fourth = findViewById(R.id.Longitude);
+                String putThird = String.valueOf(cloest.getDouble("longitude"));
+                fourth.setText(putThird);
             }
         });
     }
