@@ -1,4 +1,4 @@
-# Referenced at /Users/yuanziqi/AndroidStudioProjects/FinalParking/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:17
+# Referenced at /Users/zhenyongyang/Documents/FinalParking3/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:24
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at /Users/yuanziqi/AndroidStudioProjects/FinalParking/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:17
+# Referenced at /Users/zhenyongyang/Documents/FinalParking3/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:24
 -keep class androidx.multidex.MultiDexApplication { <init>(); }

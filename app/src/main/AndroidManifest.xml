@@ -19,6 +19,9 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".ReplyActivity">
         </activity>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9866696595015640~1738197001"/>
     </application>
 
 </manifest>
