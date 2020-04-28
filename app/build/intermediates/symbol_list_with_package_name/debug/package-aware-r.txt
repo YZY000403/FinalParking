@@ -1785,6 +1785,7 @@ id places_autocomplete_search_input
 id places_autocomplete_separator
 id places_autocomplete_try_again
 id places_autocomplete_try_again_progress
+id positionView
 id progress_circular
 id progress_horizontal
 id radio

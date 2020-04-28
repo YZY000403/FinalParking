@@ -5,7 +5,7 @@
       "latitude": "40.111341",
       "longitude": "-88.230214",
       "maxParking": "120",
-      "cars": "75"
+      "cars": "120"
     },
     {
       "name": "Parking Structure A-3",
@@ -26,7 +26,7 @@
       "latitude": "40.113321",
       "longitude": "-88.228291",
       "maxParking": "200",
-      "cars": "5"
+      "cars": "200",
     }
   ]
 }
