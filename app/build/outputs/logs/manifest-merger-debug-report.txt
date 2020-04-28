@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-28:12
-MERGED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/df7dd1f1723aca614bb5bb7724d5e01d/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:2:1-23:12
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/174a6f6c382285cd930fa94d5a6e3697/jetified-firebase-ui-auth-6.2.0/AndroidManifest.xml:2:1-109:12
@@ -98,30 +98,16 @@ INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/debug/
 		INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-31:12
 		INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/debug/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:1-31:12
 		INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:2:11-69
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:4:5-80
-	android:name
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:4:22-78
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:5:5-78
-MERGED from [com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:9:5-79
-MERGED from [com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:9:5-79
-	android:name
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:5:22-76
-uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:6:5-85
-	android:name
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:6:22-82
 uses-permission#android.permission.INTERNET
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:7:5-66
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:11:5-67
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/174a6f6c382285cd930fa94d5a6e3697/jetified-firebase-ui-auth-6.2.0/AndroidManifest.xml:13:5-67
@@ -147,9 +133,19 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /U
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/aace659ae5ecd38c9b505a1cb9ce2db9/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/aace659ae5ecd38c9b505a1cb9ce2db9/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:7:22-78
 application
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:8:5-26:19
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:9:5-29:19
 MERGED from [com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:13:5-21:19
 MERGED from [com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:13:5-21:19
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/174a6f6c382285cd930fa94d5a6e3697/jetified-firebase-ui-auth-6.2.0/AndroidManifest.xml:15:5-107:19
@@ -227,39 +223,43 @@ MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] /Users/yuanzi
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/bcfc0b80df78591183083cc148e1cf2c/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:13:9-41
 	android:hardwareAccelerated
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:11:9-43
 	android:roundIcon
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:15:9-40
-activity#com.example.cs125final.MainActivity
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:16:9-22:20
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.cs125final.LaunchActivity
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:16:19-47
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:17:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.cs125final.MainActivity
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:24:19-47
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:23:9-25:69
+ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:26:9-28:70
 	android:value
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:25:13-67
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:28:13-67
 	android:name
-		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:24:13-69
+		ADDED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:27:13-69
 uses-sdk
 INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml

@@ -1944,7 +1944,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_launch
+layout activity_launch2
 layout activity_main
 layout activity_reply_
 layout browser_actions_context_menu_page

@@ -11,84 +11,84 @@
 11    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
 11-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/debug/AndroidManifest.xml:3:5-79
 11-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/debug/AndroidManifest.xml:3:22-76
-12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-12-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:4:5-80
-12-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:4:22-78
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:5:5-67
+12-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:5:22-64
 13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-13-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:5:5-78
-13-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:5:22-76
-14    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-14-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:6:5-85
-14-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:6:22-82
-15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:7:5-66
-15-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:7:22-64
-16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-16-->[com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:10:5-76
-16-->[com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:10:22-73
-17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->[com.firebaseui:firebase-ui-auth:6.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/174a6f6c382285cd930fa94d5a6e3697/jetified-firebase-ui-auth-6.2.0/AndroidManifest.xml:12:5-79
-17-->[com.firebaseui:firebase-ui-auth:6.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/174a6f6c382285cd930fa94d5a6e3697/jetified-firebase-ui-auth-6.2.0/AndroidManifest.xml:12:22-76
-18
-19    <uses-feature
-19-->[com.google.android.gms:play-services-maps:17.0.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/7568ba76e7ca3967850522f169ef779d/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
-20        android:glEsVersion="0x00020000"
-20-->[com.google.android.gms:play-services-maps:17.0.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/7568ba76e7ca3967850522f169ef779d/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
-21        android:required="true" />
-21-->[com.google.android.gms:play-services-maps:17.0.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/7568ba76e7ca3967850522f169ef779d/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
-22
-23    <uses-permission android:name="android.permission.WAKE_LOCK" />
-23-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/e78ea75fc38ff4415d281ae9feb22a4f/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
-23-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/e78ea75fc38ff4415d281ae9feb22a4f/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:25:22-65
-24    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-24-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/e78ea75fc38ff4415d281ae9feb22a4f/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:26:5-110
-24-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/e78ea75fc38ff4415d281ae9feb22a4f/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:26:22-107
-25    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-25-->[com.google.firebase:firebase-iid:20.0.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/14092e63484c408036652bf98e042e26/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
-25-->[com.google.firebase:firebase-iid:20.0.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/14092e63484c408036652bf98e042e26/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
-26
-27    <application
-27-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:8:5-26:19
-28        android:name="androidx.multidex.MultiDexApplication"
-29        android:allowBackup="true"
-29-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:9:9-35
-30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-30-->[androidx.core:core:1.1.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/bcfc0b80df78591183083cc148e1cf2c/core-1.1.0/AndroidManifest.xml:24:18-86
-31        android:debuggable="true"
-32        android:hardwareAccelerated="true"
-32-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:14:9-43
-33        android:icon="@mipmap/ic_launcher"
-33-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:10:9-43
-34        android:label="@string/app_name"
-34-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:11:9-41
-35        android:roundIcon="@mipmap/ic_launcher_round"
-35-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:12:9-54
-36        android:supportsRtl="true"
-36-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:13:9-35
-37        android:testOnly="true"
-38        android:theme="@style/AppTheme" >
-38-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:15:9-40
-39        <activity android:name="com.example.cs125final.MainActivity" >
-39-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:16:9-22:20
-39-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:16:19-47
-40            <intent-filter>
-40-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:17:13-21:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:18:17-69
-41-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:18:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:20:17-77
-43-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:20:27-74
-44            </intent-filter>
-45        </activity>
+13-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:6:5-79
+13-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:7:5-81
+14-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:10:5-76
+15-->[com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:10:22-73
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.firebaseui:firebase-ui-auth:6.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/174a6f6c382285cd930fa94d5a6e3697/jetified-firebase-ui-auth-6.2.0/AndroidManifest.xml:12:5-79
+16-->[com.firebaseui:firebase-ui-auth:6.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/174a6f6c382285cd930fa94d5a6e3697/jetified-firebase-ui-auth-6.2.0/AndroidManifest.xml:12:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:17.0.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/7568ba76e7ca3967850522f169ef779d/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:17.0.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/7568ba76e7ca3967850522f169ef779d/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:17.0.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/7568ba76e7ca3967850522f169ef779d/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+21
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/e78ea75fc38ff4415d281ae9feb22a4f/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+22-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/e78ea75fc38ff4415d281ae9feb22a4f/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:25:22-65
+23    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+23-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/e78ea75fc38ff4415d281ae9feb22a4f/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:26:5-110
+23-->[com.google.android.gms:play-services-measurement:17.2.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/e78ea75fc38ff4415d281ae9feb22a4f/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:26:22-107
+24    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+24-->[com.google.firebase:firebase-iid:20.0.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/14092e63484c408036652bf98e042e26/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+24-->[com.google.firebase:firebase-iid:20.0.2] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/14092e63484c408036652bf98e042e26/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+25
+26    <application
+26-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:9:5-29:19
+27        android:name="androidx.multidex.MultiDexApplication"
+28        android:allowBackup="true"
+28-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:10:9-35
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.1.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/bcfc0b80df78591183083cc148e1cf2c/core-1.1.0/AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:hardwareAccelerated="true"
+31-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:11:9-43
+32        android:icon="@mipmap/ic_launcher"
+32-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:12:9-43
+33        android:label="@string/app_name"
+33-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:13:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:14:9-54
+35        android:supportsRtl="true"
+35-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:15:9-35
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme" >
+37-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:16:9-40
+38        <activity android:name="com.example.cs125final.LaunchActivity" >
+38-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:17:9-23:20
+38-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:17:19-49
+39            <intent-filter>
+39-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:18:13-22:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:19:17-69
+40-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:19:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:21:17-77
+42-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:21:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.example.cs125final.MainActivity" />
+45-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:24:9-59
+45-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:24:19-47
 46
 47        <meta-data
-47-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:23:9-25:69
+47-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:26:9-28:70
 48            android:name="com.google.android.gms.ads.APPLICATION_ID"
-48-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:24:13-69
+48-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:27:13-69
 49            android:value="ca-app-pub-9866696595015640~1738197001" />
-49-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:25:13-67
+49-->/Users/yuanziqi/AndroidStudioProjects/FinalParking3/app/src/main/AndroidManifest.xml:28:13-67
 50
 51        <activity
 51-->[com.google.android.libraries.places:places:2.2.0] /Users/yuanziqi/.gradle/caches/transforms-2/files-2.1/1e6e0b218ccfeb7492b94f8f5863d2cc/jetified-places-2.2.0/AndroidManifest.xml:14:9-20:20

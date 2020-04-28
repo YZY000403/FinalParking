@@ -4,6 +4,7 @@ import android.Manifest;
 import android.content.Context;
 import android.content.pm.PackageManager;
 import android.content.res.AssetManager;
+import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
@@ -45,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
     private String locationProvider;
     private Location location;
     private int count = 0;
+    private int requestcode = 123;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -76,8 +78,22 @@ public class MainActivity extends AppCompatActivity {
 
     public void currentLocation() {
         postionView = (TextView) findViewById(R.id.positionView);
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            // TODO: Consider calling
+            //    ActivityCompat#requestPermissions
+            // here to request the missing permissions, and then overriding
+            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+            //                                          int[] grantResults)
+            // to handle the case where the user grants the permission. See the documentation
+            // for ActivityCompat#requestPermissions for more details.
+            ActivityCompat.requestPermissions(MainActivity.this, new String[]{Manifest.permission.ACCESS_FINE_LOCATION},1);
+            ActivityCompat.requestPermissions(MainActivity.this, new String[]{Manifest.permission.ACCESS_COARSE_LOCATION},1);
+            System.out.println("wrong");
+            return;
+        }
         locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         List<String> providers = locationManager.getProviders(true);
+        System.out.println(providers);
         if (providers.contains(LocationManager.GPS_PROVIDER)) {
             locationProvider = LocationManager.GPS_PROVIDER;
         } else if (providers.contains(LocationManager.NETWORK_PROVIDER)) {
@@ -87,18 +103,7 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
         System.out.println("Flow");
-        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-            // TODO: Consider calling
-            //    ActivityCompat#requestPermissions
-            // here to request the missing permissions, and then overriding
-            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-            //                                          int[] grantResults)
-            // to handle the case where the user grants the permission. See the documentation
-            // for ActivityCompat#requestPermissions for more details.
-            return;
-        }
         location = locationManager.getLastKnownLocation(locationProvider);
-        System.out.println(location.getAltitude());
         if(location!=null){
             showLocation(location);
         }
@@ -159,7 +164,7 @@ public class MainActivity extends AppCompatActivity {
         LatLng firstPoint = new LatLng(first.getDouble("latitude"),
                 first.getDouble("longitude"));
         System.out.println(firstPoint);
-        LatLng currentPosition = new LatLng(40.112234, -88.229973);
+        LatLng currentPosition = new LatLng(latitude, longitude);
         System.out.println(currentPosition);
         double closerParking = 100000000;
         System.out.println(currentTwo.size());

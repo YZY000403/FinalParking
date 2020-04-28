@@ -46,7 +46,7 @@ dependencies {
     implementation 'com.google.android.libraries.places:places:2.2.0'
     implementation 'com.google.android.gms:play-services-location:17.0.0'
     implementation 'com.alibaba:fastjson:1.2.10'
-    implementation group: 'com.alibaba', name: 'fastjson', version:'1.2.41'
+    implementation group: 'com.alibaba', name: 'fastjson', version: '1.2.41'
     implementation 'com.google.firebase:firebase-ads:19.1.0'
     implementation 'com.google.android.gms:play-services-ads:19.1.0'
     implementation 'com.android.support:multidex:1.0.3'
